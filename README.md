@@ -1,1 +1,1 @@
-# simple-flask-auth
+# sample-flask-auth
